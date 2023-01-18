@@ -1,0 +1,5 @@
+com\learning\crud\example\entity\Product.class
+com\learning\crud\example\service\ProductService.class
+com\learning\crud\example\controller\ProductController.class
+com\learning\crud\example\repository\ProductRepository.class
+com\learning\crud\example\SpringBootCrudExample2Application.class
